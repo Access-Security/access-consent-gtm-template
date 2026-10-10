@@ -1,0 +1,6 @@
+homepage: "https://consent.accesssecurity.com.br"
+documentation: "https://github.com/Access-Security/access-consent-gtm-template#readme"
+versions:
+  # Latest version first. sha = commit of this repository that contains this version of template.tpl.
+  - sha: ac84b68de32bcd52159b6a923f072564c12bcf34
+    changeNotes: Initial release (LGPD cookie banner, Consent Mode v2, pt-BR/en/es, optional automatic blocking).
